@@ -1,0 +1,7 @@
+[user]
+  name = Edoardo Rivello
+  email = edoardo.rivello@gmail.com
+[core]
+  excludesfile = ~/.gitignore
+[color]
+  ui = true
