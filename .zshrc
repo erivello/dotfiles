@@ -11,6 +11,9 @@ ZSH_THEME="robbyrussell"
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+alias sf1="php symfony"
+alias sf2="php app/console"
+
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
 
